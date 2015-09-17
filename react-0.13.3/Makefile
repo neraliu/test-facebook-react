@@ -1,0 +1,2 @@
+run:
+	jsx ./src/ ./build/	
